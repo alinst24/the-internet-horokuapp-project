@@ -1,1 +1,2 @@
- # :chart_with_upwards_trend: Java project meant to understand basics of Java Automation Testing @itschool.ro :chart_with_upwards_trend:
+
+ # :orange_book: Personal Java project meant to exercise basic and advanced challenges of Java Automation Testing @itschool.ro :orange_book:
